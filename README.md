@@ -1,8 +1,8 @@
 - 👋 Hi, I’m yang
 - 👀 I’m interested in compilers 
 - 🌱 I’m currently learning how to become a legendary warlock player
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on optimization for dnn training and inference through compilation.
+- 📫 How to reach me ybai@cse.cuhk.edu.hk
 
 <!---
 ybai62868/ybai62868 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
