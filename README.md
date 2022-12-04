@@ -1,6 +1,6 @@
 - 👋 Hi, I’m yang
 - 👀 I’m interested in compilers.
-- 🌱 I’m currently learning how to become a legendary warlock PVP player at WLK.
+<!-- - 🌱 I’m currently learning how to become a legendary warlock PVP player at WLK. -->
 - 💞️ I’m looking to collaborate on optimization for DNN inference and training through compilation.
 - 📫 How to reach me? ybai@cse.cuhk.edu.hk
 
